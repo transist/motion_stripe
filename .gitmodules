@@ -1,3 +1,0 @@
-[submodule "vendor/stripe-ios"]
-	path = vendor/stripe-ios
-	url = git://github.com/briancollins/stripe-ios.git
