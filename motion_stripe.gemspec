@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = MotionStripe::VERSION
   gem.authors       = ["Scott Ballantyne"]
   gem.email         = ["ussballantyne@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{stripe-ios wrapper for rubymotion}
+  gem.summary       = %q{stripe-ios wrapper for rubymotion}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
