@@ -1,6 +1,6 @@
 # MotionStripe
 
-TODO: Write a gem description
+This is a rubymotion lib that wraps https://github.com/briancollins/stripe-ios
 
 ## Installation
 
