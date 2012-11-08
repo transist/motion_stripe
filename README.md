@@ -1,6 +1,6 @@
 # MotionStripe
 
-This is a rubymotion lib that wraps https://github.com/briancollins/stripe-ios
+This is a rubymotion lib that wraps https://github.com/briancollins/stripe-ios haven't tested it.
 
 ## Installation
 
